@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <name>Saroj Sigdel</name>
+    <age>25</age>
+    <address>Biratnagar</address>
+    <post>Labour</post>
+  </employee>
+   <employee>
+    <name>John Doe</name>
+    <age>34</age>
+    <address>Hetauda</address>
+    <post>Manager</post>
+  </employee>
+   <employee>
+    <name>Johnny Sins</name>
+    <age>69</age>
+    <address>Kaski</address>
+    <post>Cleaner</post>
+  </employee>
+   <employee>
+    <name>James Cook</name>
+    <age>50</age>
+    <address>Somalia</address>
+    <post>Chief</post>
+  </employee>
+  
+</employees>
