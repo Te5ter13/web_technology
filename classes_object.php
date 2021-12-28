@@ -1,6 +1,5 @@
-<h1>Classes and Objects representation</h1>
 <?php
-
+echo "<h1>Classes and Objects representation</h1>";
 class Coding{
     //Properties:
     public $program;
